@@ -1,14 +1,29 @@
 {
-  "name": "static-site",
+  "name": "Read-me-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generateREADME": "npm explore basic-readme-generator -- npm start"
   },
-  "author": "",
-  "license": "ISC",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mets0811/Read-me-generator.git"
+  },
+
+  "author": "Melissa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mets0811/Read-me-generator/issues"
+  },
+
+  "homepage": "https://github.com/mets0811/Read-me-generator#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "axios": "^0.26.0",
+    "basic-readme-generator": "^1.0.6",
+    "inquirer": "^8.2.0",
+    "util": "^0.12.4"
   }
 }
