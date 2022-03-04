@@ -1,5 +1,4 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// TODO: Create a function that returns a license badge based on which license is passed 
 function renderLicenseBadge(license) {
   console.log(license) 
   //let badgeName = license.split(" ")[0];
@@ -13,7 +12,6 @@ function renderLicenseBadge(license) {
 }
 
 // TODO: Create a function that returns the license link
-// If there is no license, return an empty string
 function renderLicenseLink(license) {
   switch (license) {
     case "MIT":
@@ -27,8 +25,7 @@ function renderLicenseLink(license) {
   }
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// TODO: Created a function that returns the license section of README
 function renderLicenseSection(license) {
   if (license === "None") {
     return "";

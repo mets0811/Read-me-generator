@@ -3,7 +3,7 @@
 ![license badge](https://img.shields.io/badge/license-MIT-brightgreen)
     
 ## Description
-node challenge
+creating read me from back end
 ## Table of Contents
 
 - [Installation](#installation)
@@ -14,10 +14,10 @@ node challenge
 - [Questions](#questions)
 <a name="installation"></a>
 ## Installation
-node
+installed node
 <a name="usage"></a>
 ## Usage
-downloaded node.js
+installed node
 <a name="license"></a>
     
 ## License
@@ -27,10 +27,10 @@ This project is covered under the following license:
     
 <a name="contributing"></a>
 ## Contributing
-n/s
+n/a
 <a name="tests"></a>
 ## Tests
-n/s
+undefined
 <a name="questions"></a>
 ## Questions
 If you have any questions, please contact me at [GitHub](https://github.com/mets0811) or <melissa0811@icloud.com>
