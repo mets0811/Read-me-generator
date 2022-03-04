@@ -86,19 +86,6 @@ const questions = [
   },
   {
     type: "input",
-    name: "test",
-    message: "Enter test instructions for your project. (Required)",
-    validate: (testInput) => {
-      if (testInput) {
-        return true;
-      } else {
-        console.log("Enter test instructions!");
-        return false;
-      }
-    },
-  },
-  {
-    type: "input",
     name: "github",
     message: "Enter your GitHub username. (Required)",
     validate: (githubInput) => {
